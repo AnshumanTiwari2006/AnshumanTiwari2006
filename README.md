@@ -5,11 +5,11 @@
 **ML Engineer. Python & Java. Building my next mistake, probably.** 😄
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnshumanTiwari2006-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnshumanTiwari2006)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](#)
-[![PyPI](https://img.shields.io/badge/PyPI-Packages-3775A9?style=flat-square&logo=pypi&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-anshumantiwarirenukkot%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshumantiwarirenukkot@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/anshumantiwari2005)
+[![PyPI](https://img.shields.io/badge/PyPI-Packages-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/Anshuman_Tiwari/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-tiwari-615569349/)
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@anshumantiwarirenukoot)
+[![Email](https://img.shields.io/badge/Email-anshumantiwarirenukkot%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshumantiwarirenukoot@gmail.com)
 
 </div>
 
