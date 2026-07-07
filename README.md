@@ -9,7 +9,7 @@
 [![PyPI](https://img.shields.io/badge/PyPI-Packages-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/Anshuman_Tiwari/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-tiwari-615569349/)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@anshumantiwarirenukoot)
-[![Email](https://img.shields.io/badge/Email-anshumantiwarirenukkot%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshumantiwarirenukoot@gmail.com)
+[![Email](https://img.shields.io/badge/Email-anshumantiwarirenukoot%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshumantiwarirenukoot@gmail.com)
 
 </div>
 
