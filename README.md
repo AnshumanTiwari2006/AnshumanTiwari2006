@@ -4,8 +4,6 @@
 
 **ML Engineer. Python & Java. Building my next mistake, probably.** 😄
 
-📍 Noida, U.P.
-
 [![GitHub](https://img.shields.io/badge/GitHub-AnshumanTiwari2006-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnshumanTiwari2006)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](#)
 [![PyPI](https://img.shields.io/badge/PyPI-Packages-3775A9?style=flat-square&logo=pypi&logoColor=white)](#)
@@ -21,16 +19,14 @@ I train models, break them, figure out why, and write about it. Somewhere betwee
 
 Right now I'm mostly living in PyTorch and LangChain, occasionally arguing with Azure, and slowly turning side projects into things other people can actually use.
 
-### ⚡ On the bench right now
+### On the bench right now
 
-- 🧠 **Scaling Automated Theorem Proving:** Building pipelines to generate and verify formal Lean 4 proofs for the PutnamBench dataset to train Energy-Based Models.
-- ⚖️ **[Synapse Council](https://github.com/AnshumanTiwari2006/synapse-council):** A system where multiple models debate and check each other instead of trusting one answer blindly.
-- 🎭 **[Advanced Face Emotion Detection](https://github.com/AnshumanTiwari2006/advanced-face-emotion-detection):** Real-time emotion recognition built to handle messy, real-world faces, not just clean datasets.
-- 📦 **[PySliceKit](https://github.com/AnshumanTiwari2006/PySliceKit):** A PyPI package for slicing and manipulating arrays and tensors the way I always wished NumPy did it natively.
-- 📉 **[LineSight](https://github.com/AnshumanTiwari2006/LineSight):** A visualizer that makes regression feel intuitive: loss surfaces, gradient descent, L1/L2 shrinkage, all interactive instead of stuck in a textbook.
-- 🏫 **Educational Portals:** Enhancing the [EduQuiz](https://github.com/AnshumanTiwari2006/EduQuiz) interactive platform and building multi-level vocabulary learning systems.
+- **[Synapse Council](https://github.com/AnshumanTiwari2006/synapse-council):** A system where multiple models debate and check each other instead of trusting one answer blindly.
+- **[Advanced Face Emotion Detection](https://github.com/AnshumanTiwari2006/advanced-face-emotion-detection):** Real-time emotion recognition built to handle messy, real-world faces, not just clean datasets.
+- **[PySliceKit](https://github.com/AnshumanTiwari2006/PySliceKit):** A PyPI package for slicing and manipulating arrays and tensors the way I always wished NumPy did it natively.
+- **[LineSight](https://github.com/AnshumanTiwari2006/LineSight):** A visualizer that makes regression feel intuitive: loss surfaces, gradient descent, L1/L2 shrinkage, all interactive instead of stuck in a textbook.
 
-### 🛠️ What I actually use
+### What I actually use
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -57,17 +53,9 @@ Right now I'm mostly living in PyTorch and LangChain, occasionally arguing with 
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-### 🚧 Currently trying not to break
+### Currently trying not to break
 
 Advanced agentic LLM workflows, real MLOps instead of duct tape, and enough Rust to stop apologizing for Python's speed.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshumanTiwari2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Anshuman's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshumanTiwari2006&theme=tokyonight&hide_border=true&background=0D1117" alt="Anshuman's GitHub Streak" />
 </div>
 
 <br/>
