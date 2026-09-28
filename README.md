@@ -63,5 +63,5 @@ Advanced agentic LLM workflows, real MLOps instead of duct tape, and enough Rust
 <div align="center">
 
 *Find the bugs. Fix the bugs. Ship anyway.*
-
+*Do send me a bug even when I eat it*
 </div>
