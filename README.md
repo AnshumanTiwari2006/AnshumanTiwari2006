@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="Asset/Beige and Orange Minimalist HR Manager LinkedIn Banner.png" width="100%" alt="Dreamy floral AI banner" />
+  <img src="https://raw.githubusercontent.com/AnshumanTiwari2006/Asset/main/Beige%20and%20Orange%20Minimalist%20HR%20Manager%20LinkedIn%20Banner.png"
+       width="100%"
+       alt="AI and Machine Learning banner" />
 </div>
-<div align="center">
 
 # Anshuman Tiwari
 
