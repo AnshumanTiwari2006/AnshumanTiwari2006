@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="asset/Beige and Orange Minimalist HR Manager LinkedIn Banner.png" width="100%" alt="Dreamy floral AI banner" />
+  <img src="Asset/Beige and Orange Minimalist HR Manager LinkedIn Banner.png" width="100%" alt="Dreamy floral AI banner" />
 </div>
 <div align="center">
 
